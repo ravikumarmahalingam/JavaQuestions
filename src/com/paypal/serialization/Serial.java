@@ -1,4 +1,4 @@
-package com.paypal.Serialization;
+package com.paypal.serialization;
 
 import java.io.Serializable;
 
