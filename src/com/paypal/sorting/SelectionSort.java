@@ -7,7 +7,7 @@ public class SelectionSort {
 		Integer arr[] = { 10, 9, 8, 7, 6, 1, 2, 3, 4, 5 };
 		System.out.println("Before Sorting:::" + Arrays.toString(arr));
 		SelectionSorting(arr);
-		System.out.println("After Sorting::::" + Arrays.toString(arr));
+		System.out.println("After Sorting:::::::" + Arrays.toString(arr));
 	}
 
 	private static void SelectionSorting(Integer[] arr) {
